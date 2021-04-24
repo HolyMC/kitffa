@@ -1,2 +1,1 @@
-# gm.kitffa
-Gamemode : Kit-FFA
+# Repository for the Gamemode Kit-FFA
